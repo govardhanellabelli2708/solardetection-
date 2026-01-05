@@ -1,0 +1,5 @@
+{
+  "name": "Solar EL Inspector",
+  "description": "An AI-powered tool for analyzing Electroluminescence (EL) images of solar cells to detect defects like microcracks and hotspots using Gemini.",
+  "requestFramePermissions": []
+}
